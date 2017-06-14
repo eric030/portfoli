@@ -1,0 +1,594 @@
+body{
+    background-color: #303841;
+   
+}
+
+.Capsalera{
+    
+    color: #EA9215;
+    font-family:  monospace;
+    font-size: 80px;
+    text-align:center;
+    padding: 50px;
+    background-color: #3A4750;
+    margin: 100px;
+    padding: inherit;
+}
+
+
+.about{
+
+    color: #EA9215;
+    position: fixed;
+    top: 0px;
+    left: 800px;
+    position: fixed;
+    background-color: #3A4750;
+    padding: 10PX;
+    position: fixed;
+   
+  
+    
+ }
+
+.about:hover {
+  background: #EA9215;
+    color: #3A4750;
+}
+
+.work{
+
+    color: #EA9215;
+    position: fixed;
+    top: 0px;
+    left: 900px;
+    position: fixed;
+    background-color: #3A4750;
+    padding: 10PX;
+    position: fixed;
+   
+}
+
+.work:hover {
+  background: #EA9215;
+    color: #3A4750;
+}
+
+.contact{
+
+    color: #EA9215;
+    position: fixed;
+    top: 0px;
+    left: 1000px;
+    position: fixed;
+    background-color: #3A4750;
+    padding: 10PX;
+    position: fixed; 
+     
+}
+
+.contact:hover {
+  background: #EA9215;
+    color: #3A4750;
+}
+
+
+
+
+
+
+.gmail{
+    
+    color: #EA9215;
+    font-family:  monospace;
+    font-size: 40px;
+    text-align:center;
+    padding: 50px;
+    background-color: #3A4750;
+    margin-top: 150px;
+    padding: inherit;
+    
+    
+}
+
+.gmail:hover {
+  background: #EA9215;       
+    color: #3A4750;
+}
+
+
+
+.gmailescola{
+    
+    color: #EA9215;
+    font-family:  monospace;
+    font-size: 40px;
+    text-align:center;
+    padding: 50px;
+    background-color: #3A4750;
+    margin-top: 250px;
+    padding: inherit;
+    
+    
+}
+
+.gmailescola:hover {
+  background: #EA9215;       
+    color: #3A4750;
+}
+
+
+.icona{
+    
+    color: #EA9215;
+    font-family:  monospace;
+    font-size: 80px;
+    text-align:center;
+    padding: 50px;
+    margin-top: 200px;
+    padding: inherit;
+    
+}
+
+
+.botoiluminacio{
+    
+ 
+    position: fixed;
+    top: 250px;
+    left: 230px;
+    
+}
+
+.botoiluminacio {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botoiluminacio:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+.botophotoshop{
+    
+ 
+    position: fixed;
+    top: 250px;
+    left: 530px;
+    
+}
+
+.botophotoshop {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botophotoshop:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+.bototexturitzacio{
+    
+ 
+    position: fixed;
+    top: 250px;
+    left: 830px;
+    
+}
+.bototexturitzacio {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.bototexturitzacio:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+
+.botomodelatge{
+    
+ 
+    position: fixed;
+    top: 250px;
+    left: 1130px;
+    
+}
+.botomodelatge {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botomodelatge:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+.botovideojocs{
+    
+ 
+    position: fixed;
+    top: 250px;
+    left: 1430px;
+    
+}
+.botovideojocs {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botovideojocs:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+
+.botorigging{
+    
+    
+     position: fixed;
+    top: 600px;
+    left: 230px;
+    
+}
+.botorigging {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botorigging:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+.botoanimacio2d{
+    
+    position: fixed;
+    top: 600px;
+    left: 530px;
+    
+}
+.botoanimacio2d {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botoanimacio2d:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+.botostopmotion{
+    
+    position: fixed;
+    top: 600px;
+    left: 830px;
+    
+}
+
+.botostopmotion {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botostopmotion:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+
+.botoprocessing{
+    
+    position: fixed;
+    top: 600px;
+    left: 1130px;
+    
+    
+}
+.botoprocessing {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botoprocessing:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+.botopou{
+    
+    position: fixed;
+    top: 600px;
+    left: 1430px;
+    
+    
+ 
+}
+
+.botopou {
+    margin: 25px;
+    opacity: 0.8;
+    border: 10px solid #eee;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+ 
+.botopou:hover {
+    opacity: 1;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+    -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+
+
+.galeriailuminacio img{
+   
+    
+    
+    padding-top: 100px;
+    margin: 50px;
+   
+    
+}
+
+
+.sketchfab{
+   
+ 
+  margin-left:600px;
+  margin-top: 100px;
+}
+
+
+.fotosiluminacio{
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+
+
+.fotosiluminacio img{
+    
+    
+    margin-top: 50px;
+}
+
+
+
+
+.fotosphotoshop{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+    
+}
+
+
+
+.fotosphotoshop img{
+    
+    
+    margin-top: 50px;
+}
+
+
+.fotostexturitzacio{
+    
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px;
+    
+}
+
+.fotostexturitzacio img{
+    
+    margin: 50px;
+}
+
+
+.fotosrigging{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+    
+}
+
+
+
+.fotospou{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+  
+}
+
+.videopou{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+  
+}
+
+
+.fotosvideojocs{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+  
+}
+
+.videovideojocs{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+  
+}
+
+
+.videostopmotion{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 100px; 
+  
+}
+
+
+.ponggame{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 300px; 
+  
+}
+
+
+
+
+.clickhere{
+    
+   text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 200px; 
+
+}
+
+
+
+.fotosanimacio2d{
+    
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 200px; 
+
+    
+}
+
+
+
+.fotosanimacio2d object{
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
